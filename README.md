@@ -8,5 +8,4 @@ Features:
     Optimized display routine reduces RAM and flash usage, allowing headroom for new features and improved device compatibility.
     Fully compatible with TinyJoypad hardware (ATtiny85 @ 16MHz) and other SSD1306-based microcontroller consoles.
 
-Why this fork?
 Why this fork? The original Tiny Dungeon used the ssd1306xled library. This fork upgrades to the modern, optimized FastTinyDriver by Daniel C / Electro L.I.B, improving speed, memory footprint, and hardware compatibility.
